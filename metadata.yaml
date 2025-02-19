@@ -1,0 +1,31 @@
+_repo: Destiny_75340
+_version: 0.0.1
+creator:
+  author:
+    agent_name: G. P. S.
+    gutenberg_agent_id: '57956'
+    url: http://www.gutenberg.org/2009/agents/57956
+  editor:
+    agent_name: Brett, Edwin J.
+    gutenberg_agent_id: '57957'
+    url: http://www.gutenberg.org/2009/agents/57957
+description: ''
+gutenberg_issued: '2025-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75340'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:302181
+pgterms:marc905: 20241127112852sauthor
+pgterms:marc906: '1894'
+pgterms:marc907: gb
+production_note: Demian Katz and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aLondon :$bEdwin J. Brett, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Destiny
+url: http://www.gutenberg.org/ebooks/75340
